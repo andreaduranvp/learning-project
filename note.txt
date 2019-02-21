@@ -1,2 +1,1 @@
-I am a  ham and somepeople call me Sam. This is our firs commit.
-
+Totally modified first file
